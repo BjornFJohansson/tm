@@ -1,0 +1,200 @@
+﻿fp0 	 CCCTCTCTTTTGGATGTA 	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp0 	 AAACCCGGATAGCACGGC	62	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp1 	 GGCATACCACTCTAGAGC 	56	60	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp1 	 GACGCCCCCCTACGGCTA	66	60	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp2 	 GGAGAGCGAGCGCGCTCA 	67	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp2 	 GCGTGCAGCTTCTGTTTA	58	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp3 	 CTCACCTGGAGGTCCGGG 	63	63	OK
+ rp3 	 TCAGGCAATTGGCGTCAA	60	63	OK
+fp4 	 AATGACGTAGCCCAACTT 	56	49	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp4 	 TCATTATCATAAGGAGTA	45	49	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp5 	 TTCACAAGTCGATTTGGG 	54	55	OK
+ rp5 	 TCTACCATGGGAGATATG	51	55	OK
+fp6 	 TGGGGTACGGTTAATCTG 	55	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp6 	 GCTTGCACCTGCGCAATT	62	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp7 	 AGCCCCCCAGTGCCCTTT 	67	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp7 	 GCCTTACTCTTCAGGATA	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp8 	 ACCTCTAACTCCGCCTAC 	57	61	OK
+ rp8 	 CTCCTTGCCAACCATCCG	60	61	OK
+fp9 	 GGAGCTGACGCTCCCAGA 	63	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp9 	 ATTCGTAGATGTCCAGAA	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp10 	 TCATGGCTTCTCACGGTG 	59	62	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp10 	 CGCGTGTCATGGCCGGCG	69	62	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp11 	 CCTCCCCATATACCGCCT 	60	63	OK
+ rp11 	 GCGGATGCCCTAATCGCT	62	63	OK
+fp12 	 ATGGGCAACCCCTACCCT 	63	47	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp12 	 GTTTCAATTTTGTATTTA	42	47	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp13 	 CTGTAGTTAGTACGAGGC 	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp13 	 GACCCCGTACGGGGGGTC	66	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp14 	 TTCGGCCTGTTCATGTCT 	58	61	OK
+ rp14 	 CCAGGGTTGCCTTGGCAA	63	61	OK
+fp15 	 GCCAGGCTCCGCGTGCCG 	71	60	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp15 	 TCATTCGACCTTCGTAGC	56	60	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp16 	 CTACTCCTCTGATCAGGC 	55	57	OK
+ rp16 	 CCCTCCGGTTTAATCTAC	53	57	OK
+fp17 	 CGCAACTGCGATTGCTTT 	59	59	OK
+ rp17 	 GCGACATAAGAGCTCAAG	55	59	OK
+fp18 	 GATAACGGTCCTACTTCG 	53	57	OK
+ rp18 	 GACCACTGATTTTCCACT	54	57	OK
+fp19 	 GTGGGTTTTATTCGGGAT 	54	58	OK
+ rp19 	 GTGGTCCTCGGATTAACA	56	58	OK
+fp20 	 TACGCCTTCTCAGCAAGG 	59	59	OK
+ rp20 	 CTCCATGGACATCCAGTA	55	59	OK
+fp21 	 CCAGCTGACTCTAAAGCG 	57	50	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp21 	 TAATTTTTACCCCTATGA	46	50	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp22 	 TATCGATTATCTCTAAGG 	46	50	OK
+ rp22 	 GACCTAAAGTAGAGACTG	50	50	OK
+fp23 	 CAGTCATACTTCCGAAAC 	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp23 	 ATGCATGGCCGAGGTGCA	65	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp24 	 CGAGATGTTTATTCTTGA 	48	52	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp24 	 CATCGTCTCTGAAGAACG	54	52	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp25 	 TCCTCGGCCCGTGCCTCT 	68	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp25 	 TTATAGTGAGCCGAGGGC	58	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp26 	 TGATGTTCGAGGGCGGGA 	63	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp26 	 TCAACTCTTGACAGCGAT	55	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp27 	 TGGTGGACCGTACAATTT 	56	53	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp27 	 AGATTAGAATGAAGACCA	49	53	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp28 	 TAAGGGGCCCGTCTTAAA 	57	61	OK
+ rp28 	 CCTTAGGGCTCCACACCG	62	61	OK
+fp29 	 CTCAGTTCCCCTCGAAAG 	56	60	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp29 	 GGACCTCCCCCTGCAACT	64	60	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp30 	 TACGTTTATGAAAATGCC 	50	54	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp30 	 CAGTTTAAGCCTCGGGCC	60	54	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp31 	 ATAGCCCTGTCGTAGGTG 	58	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp31 	 ATTGTATACTGAAGCGGA	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp32 	 GGTGATTGCTTCCTTTTG 	53	56	OK
+ rp32 	 CCGATTACGTAAATCTGC	52	56	OK
+fp33 	 AAGACCTTCAAGGGATTA 	52	53	OK
+ rp33 	 ACAATTCAAATAGCAGTT	49	53	OK
+fp34 	 TAACTCATGCGCCGAATA 	56	50	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp34 	 GTTTTTATGTCGTTCTTA	46	50	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp35 	 AAAATAACGGCACATAAG 	50	54	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp35 	 TCAGGCATTGCATCAGGG	60	54	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp36 	 ACGTGATACACCGGCTAG 	58	61	OK
+ rp36 	 CTTGGAACTGCGGCCTGA	62	61	OK
+fp37 	 TTAACTTATGCCCTTCAC 	51	55	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp37 	 AAGATTTGCCTATCCGCG	57	55	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp38 	 TCGTGAGGTTCAACGTAA 	55	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp38 	 GTTAGCGCCCACCGGGCG	68	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp39 	 GGGACTCAATCATGGTGG 	57	57	OK
+ rp39 	 TTACCTGATCGTATCGTG	53	57	OK
+fp40 	 TCAACTCTCTGTGCTTCT 	55	59	OK
+ rp40 	 TGCGAGGAATATTCCAGA	55	59	OK
+fp41 	 TACGGAAGGGCACATCGG 	61	51	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp41 	 TACGGTAGATTGTTTAAA	47	51	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp42 	 TCAGGATAGATGCCCCTT 	57	61	OK
+ rp42 	 CCATTGCATGGGGCCTAG	60	61	OK
+fp43 	 GCCTCGTTTATGAAAAGG 	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp43 	 TCCCCGGGTCTGGTCACA	65	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp44 	 TGAACACTTATACGCTGT 	53	57	OK
+ rp44 	 TTAAAGCCAAGTCTCCAA	53	57	OK
+fp45 	 AGCGCCATTTGGGTGAGG 	63	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp45 	 TAGCTCAATGTGACAGCT	55	59	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp46 	 GGTCAGGCTAGGAGCTCC 	61	61	OK
+ rp46 	 AGTGGGATTCCCTACTCG	57	61	OK
+fp47 	 CCTCCGTTAGATAGCCCT 	57	56	OK
+ rp47 	 TACTAGTCTCGACCAGTA	52	56	OK
+fp48 	 AGGCCAATAAGCCTTAAT 	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp48 	 ATGCCGCGGTCCTGAACC	65	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp49 	 TTGCACACCCTTGAGGCC 	63	58	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp49 	 GTGAGCTGACTTTTCAGT	54	58	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp50 	 AATTAATTTATGTATAAC 	38	43	OK--Tm difference is greater than the recommended limit of 5 °C. -- Annealing temperature is lower than the recommended minimum of 45 °C.
+ rp50 	 GCCGCATGCCCATTTTAC	59	43	OK--Tm difference is greater than the recommended limit of 5 °C. -- Annealing temperature is lower than the recommended minimum of 45 °C.
+fp51 	 GGGGATTGCCCCTTAGTA 	58	47	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp51 	 TCCAAATTAATTTAGAAT	42	47	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp52 	 CTACAGTAGATGTGAGGC 	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp52 	 CCCTGCCGGCAATACAAC	61	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp53 	 TTAAGGGCCGTCAGCTCT 	60	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp53 	 GTCCCTAACGTCCAATAT	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp54 	 CAGCACGGTTACTAGGCC 	59	46	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp54 	 AAAATAGACTTTATAAGT	41	46	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp55 	 GACCTATGAGATCCCGGC 	58	49	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp55 	 TAAATACACAAAGATACC	45	49	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp56 	 GGCTTTTAGACAAACGTA 	52	53	OK
+ rp56 	 AAGACTAGACGTCTTATG	49	53	OK
+fp57 	 CTCTCAAGAACGCTGATA 	53	57	OK
+ rp57 	 GTACGTATCTGCTCCAGC	56	57	OK
+fp58 	 GCTTATACGATAGATCTT 	47	51	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp58 	 GCTATGACAGGGGTTAGG	56	51	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp59 	 GAATTTTGGTTTACCGCT 	53	56	OK
+ rp59 	 ACTAGGGGTATTTCCAAC	52	56	OK
+fp60 	 GATACTTTCGAGCATGCC 	55	58	OK
+ rp60 	 TGGCATACTGATACCCTT	54	58	OK
+fp61 	 GCAGCAAGTCGTCACGTG 	61	61	OK
+ rp61 	 AACGGGCGATCTCTACAC	58	61	OK
+fp62 	 CATGAAACTCTAAACAAA 	47	51	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp62 	 CTAAGGGTGGTTCTTCGC	57	51	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp63 	 CGGCTTACAGGCACGCGT 	65	68	OK
+ rp63 	 GGGCGCGCAGTCGGTTAA	65	68	OK
+fp64 	 CTGCGACCCGCATCCAGC 	66	68	OK
+ rp64 	 GTGCTGTACGAGGGGCCC	65	68	OK
+fp65 	 TCGTAGTGCATACGCGAA 	58	61	OK
+ rp65 	 AGTGCATCCGGTCAGTCG	61	61	OK
+fp66 	 GCAAACGTCTGCTCAAGT 	58	57	OK
+ rp66 	 ACAACTCCGTATTCTGAG	53	57	OK
+fp67 	 CTAGCATGTGACGTAATT 	51	55	OK
+ rp67 	 TGTACGCACGTATAGTAC	53	55	OK
+fp68 	 GCGTAGTGCTACCGTACT 	58	53	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp68 	 GTTAAGAGACTATCGACA	49	53	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp69 	 CGGTATGTATTGCTGCTA 	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp69 	 CGCCAGAAGCAAAGCTCA	60	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp70 	 GATAAAGCCTTAACCTTA 	47	51	OK
+ rp70 	 AATACAGTCTGCTACTTA	48	51	OK
+fp71 	 GGGCAGGAGGGTGGTCCA 	66	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp71 	 ATGGGACAATAACGCAGC	57	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp72 	 TGCTACACGTCGCCGGTG 	65	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp72 	 GGTTCAGCCACGTATACC	57	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp73 	 AGTAGGTGCTTAGACCGT 	57	57	OK
+ rp73 	 GTGAATAGGGGGTATTCG	53	57	OK
+fp74 	 GATTGATCCATGAATGGT 	51	55	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp74 	 TAACGTGTGGCGCTATCC	59	55	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp75 	 GCTAGCAGATGAATACAA 	51	55	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp75 	 ACCTTCCCGACTAACTCA	57	55	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp76 	 CCGCCTATCCCTGACAAG 	59	53	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp76 	 TTTATGTTACAACGAGAC	49	53	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp77 	 GAATGGCTTCCCAGAGTG 	57	57	OK
+ rp77 	 CTATGGCAAATAGCTCCA	53	57	OK
+fp78 	 GTGTGATCGTCTGCCACA 	59	62	OK
+ rp78 	 GGGACAGACTGCATTCCA	59	62	OK
+fp79 	 AAACTCAGGATATTCGTG 	51	55	OK
+ rp79 	 AATGCTATACTTCGCCCT	55	55	OK
+fp80 	 ACACAACATTGCTGTTAA 	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp80 	 GCAGAACACCGATGCCTT	60	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp81 	 ATTAGAATGATTCCAATT 	45	49	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp81 	 ACCTAAGGGAAGGGCGCC	64	49	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp82 	 CGCCTACTCTGAACGTTG 	57	54	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp82 	 GTGTTTTGAGTTGTATGG	50	54	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp83 	 ATTCCTCGCTATGTCGGC 	59	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp83 	 GAAGTTAACACCGCTTAG	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp84 	 AAAGGGTTACCCGATGGC 	59	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp84 	 AGGAGGAACACTTATGTT	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp85 	 CAACGTAACGCCACAAAC 	57	61	OK
+ rp85 	 TCTCGACAGGACTGATCC	57	61	OK
+fp86 	 TACTAAACAGATAACTGT 	46	50	OK
+ rp86 	 CTTATGTCTGAGAACGTC	51	50	OK
+fp87 	 CACAACCGCGATACGAGT 	59	59	OK
+ rp87 	 GCCGGAAGCCTATAGATA	55	59	OK
+fp88 	 TTCGGGCACAACCGAGGC 	65	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp88 	 GACTGGAGAGACAGCTCC	58	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp89 	 TAACGAATTTCGTTTCTT 	49	52	OK
+ rp89 	 GTTCAATTACACCCTTAA	48	52	OK
+fp90 	 TAAGGAGCTGACATCCAC 	55	59	OK
+ rp90 	 AGCTTATATCAGCGCTCG	56	59	OK
+fp91 	 ACGAGACGCGCGACACAC 	65	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp91 	 TGACTGAATATTGGGACT	52	56	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp92 	 TGTCCATTCAAACCAGGC 	57	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+ rp92 	 AACCGACCTGCCCTCCTG	64	61	OK--Tm difference is greater than the recommended limit of 5 °C. 
+fp93 	 ATGACGGCCAGCATCGTT 	62	65	OK
+ rp93 	 TTGTGCAGCGGATCGCTT	62	65	OK
+fp94 	 CGTGCAATCCAGCAAGAT 	58	57	OK
+ rp94 	 GTGATCGGAATTCCCTAG	53	57	OK
+fp95 	 TAGAAGGGTTCGTGGCAG 	58	61	OK
+ rp95 	 TAGCCCGACAACCAAATG	57	61	OK
+fp96 	 AGGTATTGTTTCCCACCG 	56	60	OK
+ rp96 	 CTCCCGCTCATAGCTTCC	59	60	OK
+fp97 	 TACGGTCTAGAAAAGTCT 	51	50	OK
+ rp97 	 GGAAATTAATTGCTAACT	46	50	OK
+fp98 	 GTACAAGGCAAACCGGTG 	58	61	OK
+ rp98 	 TGGACCCCTGTCTCACGT	62	61	OK
+fp99 	 ACAACTAAGACTCTAGGA 	50	54	OK
+ rp99 	 TAAACCATAATCACGACT	50	54	OK
