@@ -1,31 +1,31 @@
 from Bio.SeqUtils import MeltingTemp as mt
 
 """
-OneTaq DNA polymerase 
+https://tmcalculator.neb.com/#!/batch
 
-                                    Tm
+OneTaq
+
+OneTaq DNA polymerase (Standard buffer) 
+
+example data                        Tm
 P1fwd	 AGCGGATAACAATTTCACACAGGA	58
 P1rev	 GTAAAACGACGGCCAGT	        54
 pBeta	 AGCGGATAACAATTTCAC	        48
 P3fwd	 AGCGGATAAGGGCAATTTCAC	    57
-P3rev	 GTAAAACGACGGCCA	        50
+P3rev	 GTAAAACGACGGCCA	            50
 
-Tm values are calculated using thermodynamic data from Santa Lucia
-salt correction of Owczarzy
-For Phusion® DNA Polymerases, the salt correction of Schildkraut.
+
+According to docs, 
+Thermodynamic data from SantaLucia 1998 and salt correction of Owczarzy 2004
 
 SantaLucia (1998) PNAS 95:1460-5
 Owczarzy et al (2004) Biochem 43:3537-54
-
-
 """
-
 
 p = P1fwd = "AGCGGATAACAATTTCACACAGGA"
 
 
 """
-
 1X OneTaq® Standard Reaction Buffer Pack
 20 mM Tris-HCl
 22 mM NH4Cl
@@ -34,14 +34,19 @@ p = P1fwd = "AGCGGATAACAATTTCACACAGGA"
 0.06% IGEPAL® CA-630
 0.05% Tween® 20
 (pH 8.9 @ 25°C)
-
 """
 
 
+table_dict = {
+str(mt.DNA_NN1): "Breslauer 1986             ", 
+str(mt.DNA_NN2): "Sugimoto 1996              ", 
+str(mt.DNA_NN3): "Allawi and SantaLucia 1997 ", 
+str(mt.DNA_NN4): "SantaLucia & Hicks 2004    ",
+}
+
 """
-
-Salt correction
-
+Salt correction from BioPython docs: 
+    
 1. 16.6 x log[Na+]
    (Schildkraut & Lifson (1965), Biopolymers 3: 195-208)
 2. 16.6 x log([Na+]/(1.0 + 0.7*[Na+]))
@@ -60,31 +65,26 @@ Salt correction
 """
 
 
-saltcorr_dict = { 1: "Schildkraut 1965 ",
-                  2: "Wetmur 1991      ",
-                  3: "SantaLucia 1996  ",
-                  4: "SantaLucia 1998  ",
-                  5: "SantaLucia 1998  ",
-                  6: "Owczarzy 2004    ",
-                  7: "Owczarzy 2008    ", }
+saltcorr_dict = { 1: "Schildkraut 1965  ",
+                  2: "Wetmur 1991       ",
+                  3: "SantaLucia 1996   ",
+                  4: "SantaLucia 1998   ",
+                  5: "SantaLucia 1998 dS",
+                  6: "Owczarzy 2004     ",
+                  7: "Owczarzy 2008     ", }
 
-table_dict = {
-str(mt.DNA_NN1): "Breslauer 1986             ", 
-str(mt.DNA_NN2): "Sugimoto 1996              ", 
-str(mt.DNA_NN3): "Allawi and SantaLucia 1997 ", 
-str(mt.DNA_NN4): "SantaLucia & Hicks 2004    ",
-}
+
 
 
 
 mt.Tm_NN(p, 
-         nn_table=mt.DNA_NN3,
-         Na=5,
-         Tris=20,
-         Mg=1.8, 
+         nn_table=mt.DNA_NN5,
+         Na=22,       # mM
+         Tris=20,     # mM
+         Mg=1.8,      # mM
          dnac1=25,    # nM
          dnac2=25,    # nM
-         dNTPs=0, 
+         dNTPs=800,   # mM
          saltcorr=6)
 
 
