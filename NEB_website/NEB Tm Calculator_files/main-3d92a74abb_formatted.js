@@ -12023,7 +12023,7 @@
                     return "0" <= e && e <= "9" && "string" == typeof e
                 },
                 isWhitespace: function(e) {
-                    return " " === e || "\r" === e || "\t" === e || "\n" === e || "\v" === e || " " === e
+                    return " " === e || "\r" === e || "\t" === e || "\n" === e || "\v" === e || " " === e
                 },
                 isIdentifierStart: function(e) {
                     return this.options.isIdentifierStart ? this.options.isIdentifierStart(e, this.codePointAt(e)) : this.isValidIdentifierStart(e)
