@@ -1,5 +1,0 @@
-﻿P1fwd	 AGCGGATAACAATTTCACACAGGA	62	61	OK
- P1rev	 GTAAAACGACGGCCAGT	57	61	OK
-pBeta	 AGCGGATAACAATTTCAC	52	---	Primer 2 missing. -- Both primers need to be longer than 7 nt
-P3fwd	 AGCGGATAAGGGCAATTTCAC	61	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
- P3rev	 GTAAAACGACGGCCA	53	57	OK--Tm difference is greater than the recommended limit of 5 °C. 
