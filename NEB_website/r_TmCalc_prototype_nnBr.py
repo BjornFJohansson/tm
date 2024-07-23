@@ -50,6 +50,7 @@ prop_seqs = {}
 for key, td_dict in r_TmCalc_prototype_nnBr.items():
     prop_seqs[f"{key}/{rc(key)[::-1]}"] = td_dict["dh"], td_dict["ds"]
 
+newtable = {}
 tablekeys = """\
 AA/TT
 AT/TA
@@ -63,19 +64,24 @@ GC/CG
 GG/CC""".splitlines()
 
 for key in tablekeys:
-    print(key, prop_seqs[key.lower()][0], prop_seqs[key.lower()][1])
+    newtable[key] = prop_seqs[key.lower()][0], prop_seqs[key.lower()][1]
 
 
 # https://github.com/biopython/biopython/blob/af00cf6c79887d80df8673e5cacde0786415ce34/Bio/SeqUtils/MeltingTemp.py#L176
 
-"""
-DNA_NN3 = {
-    "init": (0, 0), "init_A/T": (2.3, 4.1), "init_G/C": (0.1, -2.8),
-    "init_oneG/C": (0, 0), "init_allA/T": (0, 0), "init_5T/A": (0, 0),
-    "sym": (0, -1.4),
-    "AA/TT": (-7.9, -22.2), "AT/TA": (-7.2, -20.4), "TA/AT": (-7.2, -21.3),
-    "CA/GT": (-8.5, -22.7), "GT/CA": (-8.4, -22.4), "CT/GA": (-7.8, -21.0),
-    "GA/CT": (-8.2, -22.2), "CG/GC": (-10.6, -27.2), "GC/CG": (-9.8, -24.4),
-    "GG/CC": (-8.0, -19.9)}
+from Bio.SeqUtils import MeltingTemp as mt
 
-"""
+nn_tables = {"DNA_NN1": mt.DNA_NN1,
+             "DNA_NN2": mt.DNA_NN2,
+             "DNA_NN3": mt.DNA_NN3,
+             "DNA_NN4": mt.DNA_NN4}
+
+start = len(nn_tables) + 1
+new_tables = {}
+for i, (nn_table_name, nn_table) in enumerate(nn_tables.items()):
+    nt = nn_table.copy()
+    nt.update(newtable)
+    newname = f"DNA_NN{start+i}"
+    new_tables[newname] = nt
+
+    print(newname, "=", nt)

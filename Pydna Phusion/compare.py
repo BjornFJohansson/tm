@@ -6,7 +6,6 @@
 # as part of this package.
 
 import collections as _collections
-from Bio.SeqUtils.MeltingTemp import Tm_NN
 from Bio.SeqUtils.MeltingTemp import DNA_NN1
 import math as _math
 from pydna.tm import tmbresluc
@@ -527,59 +526,28 @@ dSBr[24][23] = -19.4
 dHBr[24][24] = -8375
 dSBr[24][24] = -21.2
 
-primer = "AGTCTAGTCTGTGTAGTTTCGACTAGTCTATCG"
-pydna_tm = tmbresluc(primer)
-assert tmbresluc(primer) == 63.38496307044147
-print(pydna_tm, "pydna_tm")
+prop_seqs = {}
 
-primerc = 500.0
-saltc = 50
+tablekeys = """\
+AA/TT
+AT/TA
+TA/AT
+CA/GT
+GT/CA
+CT/GA
+GA/CT
+CG/GC
+GC/CG
+GG/CC""".splitlines()
 
-saltc = float(saltc) / 1000
-pri = primerc * 1e-9
+DNA_NN = DNA_NN1
 
-dS = -12.4
-dH = -3400
+for key in tablekeys:
+    n1 = key.lower()[0]
+    n2 = key.lower()[1]
+    dh = dHBr[ord(n1) - 97][ord(n2) - 97]
+    ds = dSBr[ord(n1) - 97][ord(n2) - 97]
+    DNA_NN[key] = dh/1000, ds
 
-# dS = -16.8
-# dH = 0
-
-STR = primer.lower()
-
-for i in range(len(STR) - 1):
-    n1 = ord(STR[i])
-    n2 = ord(STR[i + 1])
-    dH +=  dHBr[n1 - 97][n2 - 97]
-    dS +=  dSBr[n1 - 97][n2 - 97]
-
-tm = (dH / (1.987 * _math.log(pri / 1600) + dS)) - 273.15
-
-# sallt correction Schildkraut 1965 = biopython method 1
-corr =  (16.6 * _math.log(saltc)) / _math.log(10)
-
-tm += corr
-print(tm, "fermentas/pydna")
-
-newdata = {'init': (-3.4, -12.4)}
-
-DNA_NN1.update(newdata)
-
-bp = Tm_NN(primer,
-           check=True,
-           strict=True,
-           c_seq=None,
-           shift=0,
-           nn_table=DNA_NN1,
-           tmm_table=None,
-           imm_table=None,
-           de_table=None,
-           dnac1=500/1600,
-           dnac2=0,
-           selfcomp=False,
-           Na=50,
-           K=0,
-           Tris=0,
-           Mg=0,
-           dNTPs=0,
-           saltcorr=1)
-print(bp, "biopython")
+assert list(DNA_NN1.keys()) == list(DNA_NN.keys())
+assert DNA_NN == DNA_NN1

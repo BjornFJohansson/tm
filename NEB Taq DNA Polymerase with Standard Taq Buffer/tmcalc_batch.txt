@@ -1,0 +1,200 @@
+﻿p101	AATTAATTTATGTATAAC	32	27	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p110	AAAATAGACTTTATAAGT	35	27	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p104	TCCAAATTAATTTAGAAT	36	31	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p26	GTTTCAATTTTGTATTTA	36	31	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p163	ATTAGAATGATTCCAATT	39	34	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p10	TCATTATCATAAGGAGTA	40	34	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p112	TAAATACACAAAGATACC	40	35	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p44	TAATTTTTACCCCTATGA	41	35	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p45	TATCGATTATCTCTAAGG	41	36	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p70	GTTTTTATGTCGTTCTTA	41	36	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p173	TACTAAACAGATAACTGT	41	36	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p196	GGAAATTAATTGCTAACT	41	36	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p117	GCTTATACGATAGATCTT	42	37	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p125	CATGAAACTCTAAACAAA	42	37	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p84	TACGGTAGATTGTTTAAA	42	37	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p141	GATAAAGCCTTAACCTTA	43	37	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p142	AATACAGTCTGCTACTTA	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p49	CGAGATGTTTATTCTTGA	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p154	TTTATGTTACAACGAGAC	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p56	AGATTAGAATGAAGACCA	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p68	ACAATTCAAATAGCAGTT	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p179	TAACGAATTTCGTTTCTT	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p180	GTTCAATTACACCCTTAA	44	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p114	AAGACTAGACGTCTTATG	45	39	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p138	GTTAAGAGACTATCGACA	45	40	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p61	TACGTTTATGAAAATGCC	45	40	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p71	AAAATAACGGCACATAAG	45	40	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p200	TAAACCATAATCACGACT	45	40	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p46	GACCTAAAGTAGAGACTG	46	41	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p166	GTGTTTTGAGTTGTATGG	46	41	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p199	ACAACTAAGACTCTAGGA	46	41	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p135	CTAGCATGTGACGTAATT	47	41	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p149	GATTGATCCATGAATGGT	47	42	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p151	GCTAGCAGATGAATACAA	47	42	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p159	AAACTCAGGATATTCGTG	47	42	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p161	ACACAACATTGCTGTTAA	47	42	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p75	TTAACTTATGCCCTTCAC	47	42	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p195	TACGGTCTAGAAAAGTCT	47	42	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p12	TCTACCATGGGAGATATG	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p113	GGCTTTTAGACAAACGTA	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p16	GCCTTACTCTTCAGGATA	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p20	ATTCGTAGATGTCCAGAA	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p47	CAGTCATACTTCCGAAAC	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p64	ATTGTATACTGAAGCGGA	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p67	AAGACCTTCAAGGGATTA	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p170	AGGAGGAACACTTATGTT	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p174	CTTATGTCTGAGAACGTC	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p184	TGACTGAATATTGGGACT	48	43	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p1	CCCTCTCTTTTGGATGTA	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p108	GTCCCTAACGTCCAATAT	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p115	CTCTCAAGAACGCTGATA	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p119	GAATTTTGGTTTACCGCT	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p120	ACTAGGGGTATTTCCAAC	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p134	ACAACTCCGTATTCTGAG	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p136	TGTACGCACGTATAGTAC	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p66	CCGATTACGTAAATCTGC	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p168	GAAGTTAACACCGCTTAG	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p80	TTACCTGATCGTATCGTG	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p87	GCCTCGTTTATGAAAAGG	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p89	TGAACACTTATACGCTGT	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p90	TTAAAGCCAAGTCTCCAA	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p96	TACTAGTCTCGACCAGTA	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p97	AGGCCAATAAGCCTTAAT	49	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p105	CTACAGTAGATGTGAGGC	50	44	OK-- Annealing temperature is lower than the recommended minimum of 45 °C.
+p27	CTGTAGTTAGTACGAGGC	50	45	OK
+p37	GATAACGGTCCTACTTCG	50	45	OK
+p38	GACCACTGATTTTCCACT	50	45	OK
+p39	GTGGGTTTTATTCGGGAT	50	45	OK
+p139	CGGTATGTATTGCTGCTA	50	45	OK
+p156	CTATGGCAAATAGCTCCA	50	45	OK
+p65	GGTGATTGCTTCCTTTTG	50	45	OK
+p100	GTGAGCTGACTTTTCAGT	50	45	OK
+p11	TTCACAAGTCGATTTGGG	51	46	OK
+p122	TGGCATACTGATACCCTT	51	46	OK
+p34	CCCTCCGGTTTAATCTAC	51	46	OK
+p148	GTGAATAGGGGGTATTCG	51	46	OK
+p50	CATCGTCTCTGAAGAACG	51	46	OK
+p160	AATGCTATACTTCGCCCT	51	46	OK
+p81	TCAACTCTCTGTGCTTCT	51	46	OK
+p82	TGCGAGGAATATTCCAGA	51	46	OK
+p190	GTGATCGGAATTCCCTAG	51	46	OK
+p9	AATGACGTAGCCCAACTT	52	46	OK
+p13	TGGGGTACGGTTAATCTG	52	47	OK
+p121	GATACTTTCGAGCATGCC	52	47	OK
+p36	GCGACATAAGAGCTCAAG	52	47	OK
+p42	CTCCATGGACATCCAGTA	52	47	OK
+p54	TCAACTCTTGACAGCGAT	52	47	OK
+p55	TGGTGGACCGTACAATTT	52	47	OK
+p69	TAACTCATGCGCCGAATA	52	47	OK
+p176	GCCGGAAGCCTATAGATA	52	47	OK
+p77	TCGTGAGGTTCAACGTAA	52	47	OK
+p181	TAAGGAGCTGACATCCAC	52	47	OK
+p92	TAGCTCAATGTGACAGCT	52	47	OK
+p32	TCATTCGACCTTCGTAGC	53	47	OK
+p33	CTACTCCTCTGATCAGGC	53	48	OK
+p40	GTGGTCCTCGGATTAACA	53	48	OK
+p182	AGCTTATATCAGCGCTCG	53	48	OK
+p193	AGGTATTGTTTCCCACCG	53	48	OK
+p3	GGCATACCACTCTAGAGC	54	49	OK
+p116	GTACGTATCTGCTCCAGC	54	49	OK
+p118	GCTATGACAGGGGTTAGG	54	49	OK
+p144	ATGGGACAATAACGCAGC	54	49	OK
+p146	GGTTCAGCCACGTATACC	54	49	OK
+p147	AGTAGGTGCTTAGACCGT	54	49	OK
+p152	ACCTTCCCGACTAACTCA	54	49	OK
+p57	TAAGGGGCCCGTCTTAAA	54	49	OK
+p59	CTCAGTTCCCCTCGAAAG	54	49	OK
+p171	CAACGTAACGCCACAAAC	54	49	OK
+p76	AAGATTTGCCTATCCGCG	54	49	OK
+p79	GGGACTCAATCATGGTGG	54	49	OK
+p85	TCAGGATAGATGCCCCTT	54	49	OK
+p185	TGTCCATTCAAACCAGGC	54	49	OK
+p192	TAGCCCGACAACCAAATG	54	49	OK
+p103	GGGGATTGCCCCTTAGTA	55	49	OK
+p6	GCGTGCAGCTTCTGTTTA	55	50	OK
+p17	ACCTCTAACTCCGCCTAC	55	50	OK
+p126	CTAAGGGTGGTTCTTCGC	55	50	OK
+p29	TTCGGCCTGTTCATGTCT	55	50	OK
+p131	TCGTAGTGCATACGCGAA	55	50	OK
+p133	GCAAACGTCTGCTCAAGT	55	50	OK
+p43	CCAGCTGACTCTAAAGCG	55	50	OK
+p155	GAATGGCTTCCCAGAGTG	55	50	OK
+p63	ATAGCCCTGTCGTAGGTG	55	50	OK
+p165	CGCCTACTCTGAACGTTG	55	50	OK
+p172	TCTCGACAGGACTGATCC	55	50	OK
+p189	CGTGCAATCCAGCAAGAT	55	50	OK
+p94	AGTGGGATTCCCTACTCG	55	50	OK
+p95	CCTCCGTTAGATAGCCCT	55	50	OK
+p8	TCAGGCAATTGGCGTCAA	56	51	OK
+p124	AACGGGCGATCTCTACAC	56	51	OK
+p35	CGCAACTGCGATTGCTTT	56	51	OK
+p137	GCGTAGTGCTACCGTACT	56	51	OK
+p41	TACGCCTTCTCAGCAAGG	56	51	OK
+p52	TTATAGTGAGCCGAGGGC	56	51	OK
+p158	GGGACAGACTGCATTCCA	56	51	OK
+p167	ATTCCTCGCTATGTCGGC	56	51	OK
+p73	ACGTGATACACCGGCTAG	56	51	OK
+p178	GACTGGAGAGACAGCTCC	56	51	OK
+p191	TAGAAGGGTTCGTGGCAG	56	51	OK
+p197	GTACAAGGCAAACCGGTG	56	51	OK
+p102	GCCGCATGCCCATTTTAC	57	52	OK
+p111	GACCTATGAGATCCCGGC	57	52	OK
+p21	TCATGGCTTCTCACGGTG	57	52	OK
+p150	TAACGTGTGGCGCTATCC	57	52	OK
+p153	CCGCCTATCCCTGACAAG	57	52	OK
+p157	GTGTGATCGTCTGCCACA	57	52	OK
+p162	GCAGAACACCGATGCCTT	57	52	OK
+p169	AAAGGGTTACCCGATGGC	57	52	OK
+p72	TCAGGCATTGCATCAGGG	57	52	OK
+p175	CACAACCGCGATACGAGT	57	52	OK
+p194	CTCCCGCTCATAGCTTCC	57	52	OK
+p107	TTAAGGGCCGTCAGCTCT	58	52	OK
+p109	CAGCACGGTTACTAGGCC	58	53	OK
+p18	CTCCTTGCCAACCATCCG	58	53	OK
+p23	CCTCCCCATATACCGCCT	58	53	OK
+p140	CGCCAGAAGCAAAGCTCA	58	53	OK
+p62	CAGTTTAAGCCTCGGGCC	58	53	OK
+p86	CCATTGCATGGGGCCTAG	58	53	OK
+p106	CCCTGCCGGCAATACAAC	59	54	OK
+p14	GCTTGCACCTGCGCAATT	59	54	OK
+p123	GCAGCAAGTCGTCACGTG	59	54	OK
+p83	TACGGAAGGGCACATCGG	59	54	OK
+p187	ATGACGGCCAGCATCGTT	59	54	OK
+p2	AAACCCGGATAGCACGGC	60	54	OK
+p24	GCGGATGCCCTAATCGCT	60	55	OK
+p132	AGTGCATCCGGTCAGTCG	60	55	OK
+p58	CCTTAGGGCTCCACACCG	60	55	OK
+p74	CTTGGAACTGCGGCCTGA	60	55	OK
+p188	TTGTGCAGCGGATCGCTT	60	55	OK
+p93	GGTCAGGCTAGGAGCTCC	60	55	OK
+p198	TGGACCCCTGTCTCACGT	60	55	OK
+p25	ATGGGCAACCCCTACCCT	61	55	OK
+p30	CCAGGGTTGCCTTGGCAA	61	56	OK
+p53	TGATGTTCGAGGGCGGGA	61	56	OK
+p91	AGCGCCATTTGGGTGAGG	61	56	OK
+p99	TTGCACACCCTTGAGGCC	61	56	OK
+p19	GGAGCTGACGCTCCCAGA	62	57	OK
+p60	GGACCTCCCCCTGCAACT	62	57	OK
+p186	AACCGACCTGCCCTCCTG	62	57	OK
+p7	CTCACCTGGAGGTCCGGG	63	57	OK
+p145	TGCTACACGTCGCCGGTG	63	58	OK
+p48	ATGCATGGCCGAGGTGCA	63	58	OK
+p164	ACCTAAGGGAAGGGCGCC	63	58	OK
+p183	ACGAGACGCGCGACACAC	63	58	OK
+p127	CGGCTTACAGGCACGCGT	64	59	OK
+p128	GGGCGCGCAGTCGGTTAA	64	59	OK
+p130	GTGCTGTACGAGGGGCCC	64	59	OK
+p177	TTCGGGCACAACCGAGGC	64	59	OK
+p88	TCCCCGGGTCTGGTCACA	64	59	OK
+p98	ATGCCGCGGTCCTGAACC	64	59	OK
+p4	GACGCCCCCCTACGGCTA	65	60	OK
+p15	AGCCCCCCAGTGCCCTTT	65	60	OK
+p129	CTGCGACCCGCATCCAGC	65	60	OK
+p5	GGAGAGCGAGCGCGCTCA	66	60	OK
+p28	GACCCCGTACGGGGGGTC	66	61	OK
+p143	GGGCAGGAGGGTGGTCCA	66	61	OK
+p51	TCCTCGGCCCGTGCCTCT	67	62	OK
+p78	GTTAGCGCCCACCGGGCG	68	62	OK
+p22	CGCGTGTCATGGCCGGCG	69	64	OK
+p31	GCCAGGCTCCGCGTGCCG	72	64	OK
